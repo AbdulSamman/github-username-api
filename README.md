@@ -1,1 +1,1 @@
-# github-chat-api
+# github-username-api
